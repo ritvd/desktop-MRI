@@ -33,29 +33,29 @@ The brain model used in dMRI has been developed by using pixel intensity based s
 We are currently working on dMRI v2.0. This advanced version of the Desktop MRI will have options for the user to choose the following:
   1. Better brain model with a more accurately segmented brain volume
   2. Option to select scanner hardware 
-      a. Magnet field strength 1.5 Tesla vs 3 Tesla
-      b. Coil configuration
+      - Magnet field strength 1.5 Tesla vs 3 Tesla
+      - Coil configuration
   3. GUI Based slice planning
-      a. Tilting of plane of acquistion
-      b. Adjusting Field of View
-      c. Swapping frequency and phase encoding directions
+      - Tilting of plane of acquistion
+      - Adjusting Field of View
+      - Swapping frequency and phase encoding directions
   4. Additional Pulse sequences and Contrast mechanisms
-      a. Gradient echo based pulse sequences
-      b. Fat saturation
-      c. Diffusion Weighted Imaging 
-      d. Magnetization Transfer Imaging
-      e. Time of Flight MR angiography
-      f. Phase Contrast MR angiography
-      g. Arterial Spin Labelling
-      h. 3D Imaging
+      - Gradient echo based pulse sequences
+      - Fat saturation
+      - Diffusion Weighted Imaging 
+      - Magnetization Transfer Imaging
+      - Time of Flight MR angiography
+      - Phase Contrast MR angiography
+      - Arterial Spin Labelling
+      - 3D Imaging
   5. Additional artefacts
-      a. Susceptibility Artefact
-      b. Chemical shift artefact
+      - Susceptibility Artefact
+      - Chemical shift artefact
   6. Additional Anatomies 
-      a. Cervical spine
-      b. Lumbar spine
-      c. Knee joint
-  7. Save Button - to save the parameters, reconstructed images, pulse sequence diagrams and K space 
+      - Cervical spine
+      - Lumbar spine
+      - Knee joint
+  7. Save Button to save the parameters, reconstructed images, pulse sequence diagrams and K space 
 
 
 
