@@ -8,6 +8,6 @@ dMRI is the first open-source simulator built to help teaching the concepts of M
 | NumPy       | 1.21.5  |
 | OpenCV      | 4.5.4   |
 
-##How to Use
+## How to Use
 
 Instructions on how this simulator can be used are present in instructions.docx. 
