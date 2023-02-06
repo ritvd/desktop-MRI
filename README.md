@@ -10,7 +10,7 @@ dMRI is the first open-source simulator built to help teaching the concepts of M
 
 ## How to Use
 
-Instructions on how this simulator can be used are present in instructions.docx. 
+Instructions on how this simulator can be used are present in instructions.pdf in the docs folder.
 
 ## News
 dMRI project has been selected for presentation at the Annual Conference of the Indian Society of Neuroradiology, New Delhi (2023).
