@@ -23,11 +23,14 @@ dMRI project has been selected for presentation at the Annual Conference of the 
 This project has been inspired by:
 
   1. K-space Explorer project: https://github.com/birogeri/kspace-explorer
+
   2. MRI Education: https://github.com/mriphysics/MRI_education
   
 ## Known issues
-Known Issues
-The brain model used in dMRI has been developed by using pixel intensity based segmentation of a 3D T1 weighted acquisition from a single subject. This may cause improper calculation of signal intensities for white matter, fat and bone. A more accurately segmented model is being developed. 
+
+The brain model used in dMRI has been developed by using pixel intensity based segmentation of a 3D T1 weighted acquisition from a single subject. 
+
+This may cause improper calculation of signal intensities for white matter, fat and bone. A more accurately segmented model is being developed. 
 
 ## Upcoming
 
