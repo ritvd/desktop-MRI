@@ -50,8 +50,7 @@ Displays relevant messages on use of sliders when applicable (acts as an inbult 
 **Steps of dMRI image reconstruction**
   1. A 3D anatomical array of T1, T2 and proton density maps is loaded. This array has been computed from a 3D T1 MR acquisition from a single subject.
   2. Slices are sampled and voxel data is computed from the 3D anatomical array, using user defined parameters such as ‘plane of acquisition’, ‘slice parameters’,          ‘image offset’, ‘field of view’ and ‘acquisition matrix’
- 
-    The parameters that can be adjusted are:
+      The parameters that can be adjusted are:
       A. Plane of Acquisition
         i. Axial 
         ii. Coronal
