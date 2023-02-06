@@ -10,11 +10,11 @@ dMRI is the first open-source simulator built to help teaching the concepts of M
 
 ## How to Use
 
-Instructions on how this simulator can be used are present in instructions.pdf in the docs folder.
+1. Instructions on how this simulator can be used are present in instructions.pdf in the docs folder.
 
-Go to /data and run concat.py
+2. Go to /data and run concat.py
 
-Go to /src and run dMRI.py
+3. Go to /src and run dMRI.py
 
 ## News
 dMRI project has been selected for presentation at the Annual Conference of the Indian Society of Neuroradiology, New Delhi (2023).
