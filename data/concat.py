@@ -11,4 +11,4 @@ brain_v7 = np.load('brain_v7.npy')
 brain_v8 = np.load('brain_v8.npy')
 
 mod_brain_vol = np.concatenate((brain_v1, brain_v2, brain_v3, brain_v4, brain_v5,brain_v6,brain_v7,brain_v8), axis=0)
-np.save('mod_brain_vol', mod_brain_vol)
+np.save('brain_vol', mod_brain_vol)
