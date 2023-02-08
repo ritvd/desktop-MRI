@@ -1,8 +1,6 @@
 import numpy as np
 import os
 
-os.chdir('/home/rithika/Desktop/desktop MRI/dMRI/data_5') 
-
 brain_v1 = np.load('brain_v1.npy')
 brain_v2 = np.load('brain_v2.npy')
 brain_v3 = np.load('brain_v3.npy')
